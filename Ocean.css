@@ -1,0 +1,38 @@
+body{
+background-image: url(Image.jpg);
+background-size: cover;
+}
+nav{
+    text-align:right;font-size: x-large;
+}
+.main{color: red;font-size: x-large;text-align: center;margin-top:30vh;
+
+}
+input{
+    background: none;
+    width: 400px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid red;
+}
+h2{
+    text-align: left;color: sienna;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin: 24px;
+}.main button{
+    padding: 10px;
+    background-color: greenyellow;
+    color: red;
+    border-radius: 16px;
+
+}nav button{background: none;
+      border-radius: 20px;
+    color: red;
+    font-size: x-large;
+padding: 10px;
+
+}
